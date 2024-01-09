@@ -2,10 +2,10 @@
 <body>
   <center>
     <h2>A Study on <i>Jujutsu Kaisen: Cursed Clash</i> by Byking and Gemdrops </h2>
-  <br>Today I'll be going over the different types of influences that both the Jujutsu Kaisen game and anime give out to the people that are interested into these type of activties:</br>
+  <br>Today I'll be going over the different types of influences that both the Jujutsu Kaisen game and anime give out to the people that are interested into these type of activties
   <br><audio controls>
   <br><video width="320" height="240" controls>
-  <source src="JJK.mp4" type="video/mp4">
+  <source src="JJK2.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
 </video></br>
   <br></br>
