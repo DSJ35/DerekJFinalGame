@@ -1,4 +1,3 @@
-<title></title>
 <head></head>
 <body>
   <center>
