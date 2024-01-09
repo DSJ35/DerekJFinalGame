@@ -3,15 +3,13 @@
 <body>
   <center>
     <h2>A Study on <i>Jujutsu Kaisen: Cursed Clash</i> by Byking and Gemdrops </h2>
-  <br>In this site I want to explore the use of audio in Playdead's <i>Limbo</i>; listen to the 
-  way the game begins right before the boy wakes up:</br>
+  <br>Today I'll be going over the different types of influences that both the Jujutsu Kaisen game and anime give out to the people that are interested into these type of activties:</br>
   <br><audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="limbo.audio.opening.mp3" type="audio/mpeg">
+  <source src="unknown.ogg" type="audio/ogg">
+  <source src="unknown.ogg" type="audio/mpeg">
 </audio></br>
-  <br>To me this sound suggests a kind of "sonorous envelope" described by Anzieu 
-  in <i>The Skin Ego</i>(note 1).</br>
-<br>Having heard the sounds, now listen and look to how the visual works with the audio:</br>
+  <br></br>
+<br>Right below here is the trailer for the game itself, as it shows you a bit of whats going to happen once this is finally released and ready for the public to play</br>
 <br><video width="320" height="240" controls>
   <source src="JJK.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
