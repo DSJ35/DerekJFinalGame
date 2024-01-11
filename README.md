@@ -1,20 +1,34 @@
-<html>
+<title></title>
 <head></head>
 <body>
   <center>
-    <h2>A Study on <i>Jujutsu Kaisen: Cursed Clash</i> by Byking and Gemdrops </h2>
-  <br>Today, I'll be going over the different influences that both the Jujutsu Kaisen game and anime give out to the people interested in these types of activities.
-  <p align="center">
-   <b>Right below is a short gameplay of the upcoming game
-  <div align="center">
-  <br><video width="1000" height="2000" controls>
-  <source src="JJK2.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-    </video></br>
-   <div align="center">
-    <br>Right below here is the trailer for the game itself, as it shows you an example of what's going to happen once this is finally released and ready for the public to play
-<br><video width="600" height="800" controls>
+    <h2>A Study on <i>Jujutsu Kaisen</i> by Byking and Gemdrops: Sounds and Influences in the Game</h2>
+  <br>In this site I want to explore different sound and influences
+  <br><audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="limbo.audio.opening.mp3" type="audio/mpeg">
+</audio></br>
+  <br>To me this sound suggests a kind of "sonorous envelope" described by Anzieu 
+  in <i>The Skin Ego</i>(note 1).</br>
+<br>Having heard the sounds, now listen and look to how the visual works with the audio:</br>
+<br><video width="320" height="240" controls>
   <source src="JJK.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
-  </video></br>
-  <br>In this specific trailer, you can hear an upbeat type of beat that gets you hyped for what's coming up, since they will also add in a story mode for this fighting game.
+</video></br>
+  <br>The black and white color scheme and the strange, other-worldly appearance of this odd forest
+  in which the boy is sleeping suggest a dystopic environment, a dreamscape, or some sort of
+  world of the dead (note 2).</br>
+<br>In case you think that finds others like him will provide a sense of community, think again:</br>
+<br><img src="limbo.others.two.png"> (note 3)</br>
+  <br>These are murderous kids and if the boy fears them, he has good reason, as you as user are about to find
+  out.</br>
+  </center>
+<br>(note 1): <font color="green">Anzieu, Didier <i>The SKin Ego</i> translated by Chris Turner (New Haven: Yale University
+  Press, 1989).</font></br>
+<br>(note 2): <font color="green">Gotthardt, Alexxa "The German Expressionists' Shockingly Raw Work Exploded
+  Bourgeois Values and Reinvented Art."</font> </br>
+<br>(note 3): <font color="green">Freud, Sigmund "Beyond the Pleasure Principle" in <i>The Standard
+Edition</i> translated by James Strachey (London: The Hogarth Press, 1957).</font></br>
+<a href="https://www.artsy.net/article/artsy-editorial-german-expressionists-shockingly-raw-work-exploded-bourgeois-values-reinvented-art"> (article on German Expressionism accessed December 21, 2023)</a>.</br
+</body>
+</html>
