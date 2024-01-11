@@ -5,8 +5,7 @@
     <h2>A Study on <i>Jujutsu Kaisen: Cursed Clash</i> by Byking and Gemdrops </h2>
   <br>Today, I'll be going over the different influences that both the Jujutsu Kaisen game and anime give out to the people interested in these types of activities.
   <p align="center">
-  
-    <b>Right below is a short gameplay of the upcoming game
+   <b>Right below is a short gameplay of the upcoming game
   <div align="center">
   <video src="JJK2.mp4" width="400" />
 </div>
