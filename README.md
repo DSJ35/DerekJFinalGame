@@ -7,8 +7,10 @@
   <br><video width="1000" height="2000" controls>
   <source src="JJK2.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
-<br>Right below here is the trailer for the game itself, as it shows you an example of what's going to happen once this is finally released and ready for the public to play
+    </video></br>
+  <br>Right below here is the trailer for the game itself, as it shows you an example of what's going to happen once this is finally released and ready for the public to play
 <br><video width="600" height="800" controls>
   <source src="JJK.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
+  </video></br>
   <br>In this specific trailer, you can hear an upbeat type of beat that gets you hyped for what's coming up, since they will also add in a story mode for this fighting game.
