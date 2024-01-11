@@ -11,7 +11,8 @@
   <source src="JJK2.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
     </video></br>
-  <br>Right below here is the trailer for the game itself, as it shows you an example of what's going to happen once this is finally released and ready for the public to play
+  <p align="center">
+    <br>Right below here is the trailer for the game itself, as it shows you an example of what's going to happen once this is finally released and ready for the public to play
 <br><video width="600" height="800" controls>
   <source src="JJK.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
