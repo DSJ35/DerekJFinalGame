@@ -9,7 +9,7 @@
   <source src="Special.mp3" type="audio/mpeg">
 </audio>
   <br>The sound mentioned above is from the anime. Game companies often use music from the anime to make the game more immersive, especially in the story mode, giving players a deeper connection to the game.
- <b></b> Right down here is a small trailer for the game itself<b></b>   
+ <b></b> Right down here is a small trailer for the game itself<b>   
 <br><video width="320" height="240" controls>
   <source src="JJK.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
