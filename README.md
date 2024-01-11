@@ -18,7 +18,8 @@
 <br><video width="320" height="240" controls>
   <source src="JJK2.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
-<br>The characters highlighted in the trailer receive the most screen time in the anime's first season. These individuals are more widely recognized, given their prominence in the initial season, especially considering that the second season has been recently released.
+</video>
+  <br>The characters highlighted in the trailer receive the most screen time in the anime's first season. These individuals are more widely recognized, given their prominence in the initial season, especially considering that the second season has been recently released.
 br><img src="Sukuna2.jpg"> (note 3)</br>
   <br>The individual depicted in the picture is Sukuna, the primary antagonist in the show. The image is a snapshot from a gameplay video showcasing the fighting mode of the game, where players engage in battles, and Sukuna takes on a significant role as a formidable adversary within this mode.
   </center>
