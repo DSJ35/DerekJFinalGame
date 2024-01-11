@@ -7,12 +7,11 @@
   <p align="center">
    <b>Right below is a short gameplay of the upcoming game
   <div align="center">
-  <video src="JJK2.mp4" width="400" />
-</div>
   <br><video width="1000" height="2000" controls>
   <source src="JJK2.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
     </video></br>
+   <div align="center">
     <br>Right below here is the trailer for the game itself, as it shows you an example of what's going to happen once this is finally released and ready for the public to play
 <br><video width="600" height="800" controls>
   <source src="JJK.mp4" type="video/mp4">
