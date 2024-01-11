@@ -8,9 +8,8 @@
   <source src="horse.ogg" type="audio/ogg">
   <source src="Special.mp3" type="audio/mpeg">
 </audio>
-  <br>The sound above sound comes from the anime itself. Most of the time, game companies like to incorporate music from the anime so the player can have a more immersive feeling in the game, especially if it's the story mode.
-  
-<b>Right down here is a small trailer for the game itself
+  <br>The sound above comes from the anime itself. Most of the time, game companies like to incorporate music from the anime so the player can have a more immersive feeling in the game, especially if it's the story mode.
+  <b>Right down here is a small trailer for the game itself<b>
 <br><video width="320" height="240" controls>
   <source src="JJK.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
