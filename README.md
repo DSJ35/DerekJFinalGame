@@ -20,7 +20,7 @@
   <source src="movie.ogg" type="video/ogg">
 </video>
   <br>The characters highlighted in the trailer receive the most screen time in the anime's first season. These individuals are more widely recognized, given their prominence in the initial season, especially considering that the second season has been recently released.
-br><img src="Sukuna2.jpg">
+<img src="Sukuna2.jpg">
   <br>The individual depicted in the picture is Sukuna, the primary antagonist in the show. The image is a snapshot from a gameplay video showcasing the fighting mode of the game, where players engage in battles, and Sukuna takes on a significant role as a formidable adversary within this mode.
   </center>
 <br>While the game predominantly showcases gameplay elements rather than delving into the story mode, it has the potential to greatly enhance the overall experience by incorporating a diverse range of music and sounds from the anime. Moreover, including the second season's storyline in the game adds depth, seamlessly transitioning players from the show's introductory phases to the heart of the action. Due to this, as your characters proceed throughout the story mode and you face off against bosses who were the antagonists of the story, you're going to have a lot of emotion when it comes to either losing or winning a fight to advance.
