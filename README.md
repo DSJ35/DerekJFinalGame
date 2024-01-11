@@ -3,7 +3,7 @@
 <body>
   <center>
     <h2>A Study on <i>Jujutsu Kaisen</i> by Byking and Gemdrops: Sounds and Influences in the Game</h2>
-  <br>In this site I want to explore different sound and influences
+  <br>In this site I want to explore different sound and influences from the game of Jujutsu Kaisen, including the anime
   <br><audio controls>
   <source src="horse.ogg" type="audio/ogg">
   <source src="limbo.audio.opening.mp3" type="audio/mpeg">
