@@ -4,7 +4,7 @@
   <center>
     <h2>A Study on <i>Jujutsu Kaisen: Cursed Clash</i> by Byking and Gemdrops </h2>
   <br>Today, I'll be going over the different influences that both the Jujutsu Kaisen game and anime give out to the people interested in these types of activities.
-    
+  <p align="center">
   <b>Right below is a short gameplay of the upcoming game
   <p align="center">
   <br><video width="1000" height="2000" controls>
